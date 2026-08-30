@@ -47,5 +47,4 @@ Both models typically score above 95 percent accuracy on this dataset. The exact
 
 1. `Iris_Classification.ipynb`, the full notebook with code and explanations
 2. `README.md`, this file
-3. `Live_Demo/`, folder for output of the notebook
 
