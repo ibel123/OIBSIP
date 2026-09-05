@@ -37,7 +37,7 @@ The dataset is a used car listings dataset, commonly called the "Vehicle dataset
 8. Splits the data into a training set (80 percent) and a testing set (20 percent)
 9. Trains two models: Linear Regression (baseline) and Random Forest Regressor (comparison)
 10. Evaluates both models using MAE, RMSE, and R squared
-11. Looks at which features the Random Forest model relied on most
+11. Looks at which features the Linear Regression model relied on most
 
 ## How to run this project
 
