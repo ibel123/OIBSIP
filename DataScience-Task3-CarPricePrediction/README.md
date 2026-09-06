@@ -53,5 +53,5 @@ The dataset is a used car listings dataset, commonly called the "Vehicle dataset
 
 1. `Car_Price_Prediction.ipynb`, the full notebook with code and explanations
 2. `README.md`, this file
-3. `car data.csv/`
+3. `car data.csv`
 
