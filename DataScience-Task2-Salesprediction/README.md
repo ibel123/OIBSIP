@@ -1,4 +1,4 @@
-# Data Science Task 2: Sales Prediction Using Python
+# Data Science Task 5: Sales Prediction Using Python
 
 ## What this project does
 
