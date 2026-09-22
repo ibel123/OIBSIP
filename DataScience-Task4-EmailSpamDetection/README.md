@@ -50,6 +50,9 @@ The dataset is the SMS Spam Collection dataset, commonly available on Kaggle and
 6. Read the explanations above each code cell to understand what it is doing
 7. Check the printed evaluation numbers, the confusion matrices, and the word clouds near the bottom
 
+## Results
+Multinomial Naive Bayes achieved an accuracy of 0.971 and an F1 score of 0.881. Logistic Regression achieved an accuracy of 0.961 and an F1 score of 0.831. Naive Bayes is declared the best performing model, since it achieved a higher recall (0.792 vs 0.711), catching more actual spam messages than Logistic Regression.
+
 ## Files in this folder
 
 1. `Email_Spam_Detection.ipynb`, the full notebook with code and explanations
