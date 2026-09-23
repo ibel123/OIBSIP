@@ -57,4 +57,5 @@ Multinomial Naive Bayes achieved an accuracy of 0.971 and an F1 score of 0.881. 
 
 1. `Email_Spam_Detection.ipynb`, the full notebook with code and explanations
 2. `README.md`, this file
+3. Screenshots/
    
