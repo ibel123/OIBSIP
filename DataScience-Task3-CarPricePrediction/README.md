@@ -49,6 +49,9 @@ The dataset is a used car listings dataset, commonly called the "Vehicle dataset
 6. Read the explanations above each code cell to understand what it is doing
 7. Check the printed evaluation numbers and the feature importance chart near the bottom
 
+## Results
+Linear Regression achieved an RMSE of 2.33 and an R squared of 0.790. Random Forest Regressor achieved an RMSE of 3.56 and an R squared of 0.509. Linear Regression is declared the best performing model for this task.
+
 ## Files in this folder
 
 1. `Car_Price_Prediction.ipynb`, the full notebook with code and explanations
