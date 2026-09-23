@@ -57,4 +57,4 @@ Linear Regression achieved an RMSE of 2.33 and an R squared of 0.790. Random For
 1. `Car_Price_Prediction.ipynb`, the full notebook with code and explanations
 2. `README.md`, this file
 3. `car data.csv`
-
+4. Screenshots/
