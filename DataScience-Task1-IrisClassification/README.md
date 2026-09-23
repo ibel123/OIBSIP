@@ -32,17 +32,15 @@ The dataset is the Iris dataset, built directly into the scikit learn library. N
 8. Evaluates both models using accuracy, a confusion matrix, and a classification report
 9. Declares the better performing model with a short explanation
 
-## Results
-
-K Nearest Neighbors achieved 100 percent accuracy on the test set, while Logistic Regression achieved 96.7 percent. KNN is declared the best performing model for this task.
-This matches the pairplot and the box plot from the EDA step, which showed the three species forming fairly tight, well separated clusters, especially by petal length and petal width, a structure that suits KNN's nearest neighbor approach well. The KNN confusion matrix also showed zero misclassifications, while Logistic Regression missed a small number of cases between Versicolor and Virginica, the two most similar species in the data.
-
 ## How to run this project
 
 1. Open the notebook in Google Colab
 2. Run every cell from top to bottom, in order (Runtime, then Run all)
 3. Read the explanations above each code cell to understand what it is doing
 4. Check the printed accuracy scores and confusion matrices near the bottom
+
+## Results
+K Nearest Neighbors achieved 100 percent accuracy on the test set, while Logistic Regression achieved 96.7 percent. KNN is declared the best performing model for this task.
 
 ## Files in this folder
 
