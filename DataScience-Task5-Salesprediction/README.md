@@ -38,10 +38,6 @@ The dataset is called `Advertising.csv`. It is not built into any Python library
 9. Draws a residual plot to check whether the Linear Regression model is missing any pattern
 10. Looks at the Linear Regression coefficients and Random Forest feature importances to work out which channel matters most
 
-## Results
-
-Random Forest Regressor achieved an RMSE of 0.757 and an R squared of 0.982, outperforming Linear Regression (RMSE of 1.782, R squared of 0.899). Random Forest is declared the best performing model. Feature importance shows TV spend has the strongest impact on Sales, followed by Radio, with Newspaper spend having almost no measurable impact.
-
 ## How to run this project
 
 1. Download `Advertising.csv` from Kaggle first (see Dataset section above)
@@ -50,6 +46,9 @@ Random Forest Regressor achieved an RMSE of 0.757 and an R squared of 0.982, out
 4. When prompted, upload `Advertising.csv`
 5. Read the explanations above each code cell to understand what it is doing
 6. Check the printed evaluation numbers and the coefficient and feature importance tables near the bottom
+
+## Results
+Random Forest Regressor achieved an RMSE of 0.757 and an R squared of 0.982, outperforming Linear Regression (RMSE of 1.782, R squared of 0.899). Random Forest is declared the best performing model. Feature importance shows TV spend has the strongest impact on Sales, followed by Radio, with Newspaper spend having almost no measurable impact.
 
 ## Files in this folder
 
