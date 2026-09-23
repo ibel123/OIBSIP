@@ -54,5 +54,5 @@ Random Forest Regressor achieved an RMSE of 0.757 and an R squared of 0.982, out
 
 1. `Sales_Prediction.ipynb`, the full notebook with code, visuals and explanations
 2. `README.md`, this file
-
+3. Screenshots/
 
